@@ -8,7 +8,7 @@
       <div class="container">
          <!-- Tittle -->
          <div class="heading-block text-dark text-left margin-bottom-80">
-         <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> <h2>შენს</h2></span> არეალში</h2>
+         <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> შენს არეალში </span></h2>
          </div>
          <!-- Form -->
          <form>

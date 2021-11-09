@@ -67,17 +67,17 @@
                            <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: 2250 ₾ </p>
                         </li>
                         <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
+                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი: 2000 ₾</p>
                         </li>
                      </ul>
                   </div>
                   <div class="col-md-6">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
+                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: 93</p>
                         </li>
                         <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: 87</p>
                         </li>
                      </ul>
                   </div>
@@ -112,17 +112,17 @@
                            <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: 2250 ₾ </p>
                         </li>
                         <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
+                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი: 2200 ₾</p>
                         </li>
                      </ul>
                   </div>
                   <div class="col-md-6">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
+                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: 75 </p>
                         </li>
                         <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: 70 </p>
                         </li>
                      </ul>
                   </div>
@@ -157,17 +157,17 @@
                            <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: 6000 ₾ </p>
                         </li>
                         <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
+                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი: 3000 ₾</p>
                         </li>
                      </ul>
                   </div>
                   <div class="col-md-6">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
+                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: 55 </p>
                         </li>
                         <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: 45</p>
                         </li>
                      </ul>
                   </div>
@@ -202,17 +202,17 @@
                            <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: 2250 ₾ </p>
                         </li>
                         <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
+                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი: 1200 ₾</p>
                         </li>
                      </ul>
                   </div>
                   <div class="col-md-6">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
+                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: 97 </p>
                         </li>
                         <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: 98</p>
                         </li>
                      </ul>
                   </div>
