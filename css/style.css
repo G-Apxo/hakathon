@@ -269,7 +269,7 @@ section {
 	transition: all 0.4s ease-in-out;
 }
 .btn:hover{
-	background:#00a561;
+	background:#222935;
 	color:#fff;
 }
 .btn-orange{
@@ -708,7 +708,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	margin-bottom:30px;
 }
 .case ul li article .case-detail{
-	background:#f9f9f9;
+	background:transparent;
 	position:absolute;
 	bottom:-50%;
 	padding:20px;
@@ -727,7 +727,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	opacity:0.7;
 }
 .case ul li article:hover .case-detail{
-	bottom:0px;
+	bottom:-20px;
 }
 .margin-left-80px{
 	margin-left:-80px;
@@ -1570,7 +1570,34 @@ footer .news-letter button{
 	-moz-box-shadow: 8px 8px 0px -3px rgba(136,173,12,0.75);
 	
 }
+.btnUniq2{
+	display: none;
+}
+.btnUniq2:hover{
+	display: block;
+	position:relative;
+	overflow:hidden;
+	margin-bottom:30px;
+}
+.btnUniq2:hover{
+background:#f9f9f9;
+	position:absolute;
+	bottom:-50%;
+	padding:20px;
+	text-align:center;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	width:100%;
+}
 
-.custom_hov:hover + #btnUniq {
-	display: inline-block;
+.hide {
+	display: none;
+  }
+	  
+  .myDIV:hover + .hide {
+	display: block;
+	color: red;
   }
