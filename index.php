@@ -210,9 +210,7 @@
             <div class="news-detail">
               <div class="row">
                 <div class="col-md-3 text-center">
-                  <div class="avatar"> <img class="img-circle" src="images/avatar-1.png" alt=""> </div>
-                  <p>28 Sep 2017 </p>
-                  <p><i class="fa fa-comment"></i>03 </p>
+                  <br>
                 </div>
                 <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
                   <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
@@ -239,33 +237,48 @@
     <section class="front-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row">
-          <div class="col-md-6"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> </div>
-          <div class="col-md-6"> 
+          <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> </div>
+          <div class="col-md-8"> 
             <!-- Tittle -->
             <div class="heading-block text-left margin-bottom-20">
               <h2>Get Appear On the Front
                 Page of Google!</h2>
-              <p>Monitor keyword rankings daily to strategise and forecast your digital marketing efforts. Track tens of thousands of keywords and manage valuable keyterms with easy-to-edit labels. intalyse Rankings also allows you to keep an eye on the  with  for comparison with your own keyword performance.</p>
+            <p>Lorem</p>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>TEXT</h3>
+                  <div class="option">
+                  <select class="form-control form-control-lg">
+                  <option>Large select</option>
+                  <option>Large select</option>
+                  <option>Large select</option>
+                </select></div>
+              </div>
+              <div class="col-md-6">
+                <h3>TEXT 2</h3>
+                  <div class="option">
+                  <select class="form-control form-control-lg">
+                  <option>Large select</option>
+                  <option>Large select</option>
+                  <option>Large select</option>
+                </select></div>
+              </div>
             </div>
             
             <!-- List Style -->
-            <ul class="list-style">
-              <li>
-                <p><img src="images/list-icon-1.png" alt=""> We deliver Top Rankings. </p>
-              </li>
-              <li>
-                <p><img src="images/list-icon-2.png" alt=""> High customer retention rate. </p>
-              </li>
-              <li>
-                <p><img src="images/list-icon-3.png" alt=""> We always return e-mails and calls within one business day. </p>
-              </li>
-              <li>
-                <p><img src="images/list-icon-4.png" alt=""> Afordable pricing offers. </p>
-              </li>
-            </ul>
+            <div class="row">
+              <div class="col-md-6">
+
+              </div>
+              <div class="col-md-6 sections2">
+                 <!-- Buttons --> 
+            <a href="#." class="btn margin-top-20">ძიება</a>  </div>
+                </div>
+            </div>
             
-            <!-- Buttons --> 
-            <a href="#." class="btn margin-top-20">Learn More</a> <a href="#." class="btn btn-orange margin-left-30 margin-top-20">Get a quote</a> </div>
+            
+           
         </div>
       </div>
     </section>
