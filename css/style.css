@@ -207,7 +207,7 @@ a:hover, a:focus {
 }
 
 .orange-bg{
-	background:#ff6c3a !important;
+	background:#00a561 !important;
 }
 /*=======================================================
       SECTION
@@ -269,11 +269,11 @@ section {
 	transition: all 0.4s ease-in-out;
 }
 .btn:hover{
-	background:#ff6c3a;
+	background:#00a561;
 	color:#fff;
 }
 .btn-orange{
-	background:#ff6c3a;
+	background:#00a561;
 	border-bottom:3px solid rgba(0,0,0,0.4);
 }
 .btn-orange:hover{
@@ -409,11 +409,11 @@ header .ownmenu ul.dropdown li a {
 	padding: 10px 20px;
 }
 header .ownmenu ul.dropdown li a:hover {
-	color: #ff6c3a !important;
+	color: #00a561 !important;
 	background: none;
 }
 header .ownmenu li > .megamenu li a:hover {
-	color: #ff6c3a !important;
+	color: #00a561 !important;
 }
 header .ownmenu li > .megamenu li a {
 	text-transform: uppercase;
@@ -512,8 +512,8 @@ header input:focus, textarea:focus, keygen:focus, select:focus {
 }
 header .search-nav .btn {
 	margin-top: 0px;
-	border-right: 1px solid #ff6c3a;
-	color: #ff6c3a;
+	border-right: 1px solid #00a561;
+	color: #00a561;
 }
 header .search-nav .bootstrap-select.btn-group .dropdown-menu li a {
 	padding: 2px 10px;
@@ -522,7 +522,7 @@ header .search-nav .bootstrap-select.btn-group .dropdown-menu li a {
 header .search-nav button {
 	border: none;
 	color: #fff;
-	background: #ff6c3a;
+	background: #00a561;
 	height: 40px;
 	float: right;
 	right: 0px;
@@ -623,11 +623,11 @@ header.coporate-header .ownmenu > li > .megamenu {
 	text-align:center;
 }
 .sub-banner .breadcrumb li{
-	color:#ff6c3a;
+	color:#00a561;
 	font-family: 'Open Sans', sans-serif;
 }
 .sub-banner .breadcrumb li a{
-	color:#ff6c3a;
+	color:#00a561;
 	font-family: 'Open Sans', sans-serif;
 }
 /*=======================================================
@@ -880,7 +880,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	background:#f9f9f9;
 }
 .testimonial .heading-block i{
-	color:#ff6c3a;
+	color:#00a561;
 	font-size:30px;
 }
 .testimonial h6{
@@ -892,7 +892,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	margin-top:80px;
 }
 .testimonial h6 span{
-	color:#ff6c3a;
+	color:#00a561;
 	font-size:12px;
 	text-transform:none;
 }
@@ -933,10 +933,10 @@ header.coporate-header .ownmenu > li > .megamenu {
 	z-index:999;
 }
 .testimonial #carousel li:hover span{
-	background:#ff6c3a;
+	background:#00a561;
 }
 .testimonial #carousel .flex-active-slide span{
-	background:#ff6c3a;
+	background:#00a561;
 }
 .testimonial .flex-direction-nav{
 	display:none;
@@ -1018,7 +1018,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 .side-bar .bg-defult{
 	padding:10px 20px;
 	background:#f9f9f9;
-	border-top:2px solid #ff6c3a;
+	border-top:2px solid #00a561;
 	display:inline-block;
 	width:100%;
 	margin-bottom:50px;
@@ -1156,7 +1156,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 }
 .contact-info li i{
 	font-size:30px;
-	color:#ff6c3a;
+	color:#00a561;
 }
 .contact-info li p{
 	margin:0px;
@@ -1227,7 +1227,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	padding-bottom:20px;
 }
 .side-bar .tweets li a{
-	color:#ff6c3a;
+	color:#00a561;
 }
 .side-bar .tweets li span{
 	width:100%;
@@ -1237,7 +1237,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 	content:"\f099 ";
 	position:absolute;
 	left:0px;
-	color:#ff6c3a;
+	color:#00a561;
 	font-size:22px;
 	font-family:'FontAwesome';
 }
@@ -1247,7 +1247,7 @@ header.coporate-header .ownmenu > li > .megamenu {
 .intro .list-what-we hr{
 	width:40px;
 	height:2px;
-	background:#ff6c3a;
+	background:#00a561;
 	border:none;
 	margin:15px 0;
 }
@@ -1465,7 +1465,7 @@ footer .news-letter input{
 	background:none;
 }
 footer .news-letter button{
-	background:#ff6c3a;
+	background:#00a561;
 	width:55px;
 	height:50px;
 	float:right;
@@ -1561,7 +1561,7 @@ footer .news-letter button{
 	font-size:12px;
 }
 .social_icons li a:hover{
-	background:#ff6c3a;
+	background:#00a561;
 }
 
 
