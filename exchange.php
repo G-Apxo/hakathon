@@ -48,9 +48,14 @@
    <!-- Google Front Page -->
    <section class="front-page padding-bottom-100">
       <div class="container padding-bottom-50 padding-top-50">
-         <div class="row">
-            <div class="col-md-6 custom_hov" style="border: solid 2px #0049a5;padding-top: 35px;padding-bottom: 35px;border-radius: 35px;">
-               <div class="col-md-4" style="display: flex;justify-content: center;align-items: center;"> <img class="img-responsive " src="https://live.staticflickr.com/1770/42015795075_0007b251ac_b.jpg" alt=" " style="width:100%"> </div>
+      <div class="case">
+          <ul class="row">
+            
+            <!-- Case 1 -->
+            <li class="col-md-6">
+              <article> <a href="#"> 
+              <div class="col-md-12" style="border: solid 2px #0049a5;padding-top: 35px;padding-bottom: 35px;border-radius: 35px;">
+               <div class="col-md-4" style="display: flex;justify-content: center;align-items: center;    padding-top: 30px;"> <img class="img-responsive " src="https://live.staticflickr.com/1770/42015795075_0007b251ac_b.jpg" alt=" " style="width:100%"> </div>
                <div class="col-md-8">
                   <!-- Tittle -->
                   <div class="heading-block text-left" style="margin-bottom:5px">
@@ -75,7 +80,7 @@
                      </div>
                   </div>
                   <!-- Buttons --> 
-                  <div class="col-md-12" id='btnUniq'>
+                  <div class="col-md-12">
                      <div class="row">
                         <div class="col-md-6">
                         </div>
@@ -84,7 +89,25 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-6" >
+
+              </a>
+                <div class="case-detail">
+                
+                     
+                        
+                        <div class="col-md-12 padding-top-10" style="display:flex; justify-content:center; align-items:center" >
+                           <a href="#." class="btn margin-top-20" style="width: 50%;height:40px;display: flex;justify-content: center;align-items: center;color: white;">გაიგე მეტი</a>
+                        </div>
+                     
+                  
+                </div>
+              </article>
+            </li>
+            
+            <!-- Case 2 -->
+            <li class="col-md-6">
+              <article> <a href="#"> 
+              <div class="col-md-12" >
                <div class="col-md-4" style="display: flex;justify-content: center;align-items: center;"> <img class="img-responsive " src="https://scontent.fkut1-1.fna.fbcdn.net/v/t1.18169-9/13516706_508457376027922_6490481796783975719_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=TWeLECtUBgoAX-qk_go&_nc_ht=scontent.fkut1-1.fna&oh=ae6d488cc2ca622982c70b7ef633b766&oe=61AFEA95" alt=" " style="width:70%"> </div>
                <div class="col-md-8">
                   <!-- Tittle -->
@@ -109,7 +132,12 @@
                      </div>
                   </div>
                   <!-- Buttons --> 
-                  <div class="col-md-12">
+                 
+               </div>
+            </div>
+              </a>
+                <div class="case-detail">
+                <div class="col-md-12">
                      <div class="row">
                         <div class="col-md-6">
                         </div>
@@ -118,9 +146,17 @@
                         </div>
                      </div>
                   </div>
-               </div>
-            </div>
-         </div>
+                </div>
+              </article>
+            </li>
+            
+         
+          </ul>
+          
+          <!-- Button -->
+         
+        </div>
+   
       </div>
    </section>
 </div>
