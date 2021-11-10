@@ -8,7 +8,7 @@
 <title>eduho</title>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://scontent.xx.fbcdn.net/v/t1.15752-9/254825486_682395012739048_6668252105099715147_n.png?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=DOc_k4ZTy0QAX-prX0k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c4643e2b2553a9036b65f2c9e59ae953&oe=61B32352" type="image/x-icon">
 <link rel="icon" href="https://scontent.xx.fbcdn.net/v/t1.15752-9/254825486_682395012739048_6668252105099715147_n.png?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=DOc_k4ZTy0QAX-prX0k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c4643e2b2553a9036b65f2c9e59ae953&oe=61B32352" type="image/x-icon">
 
 <!-- FontsOnline -->
