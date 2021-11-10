@@ -122,7 +122,17 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 margin-top-100"> <a href="#."> <img class="img-responsive" src="images/esse.png" alt=""> </a>
+
+       
+        </div>
+      </div>
+    </section>
+    <section class=" latest-news padding-top-100 padding-bottom-100">
+      <div class="container"> 
+        <!-- News -->
+        <div class="row"> 
+          <!-- News 1 -->
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/esse.png" alt=""> </a>
             <div class="news-detail">
               <div class="row">
                 
@@ -155,7 +165,7 @@
           </div>
           
           <!-- News 2 -->
-          <div class="col-md-6 margin-top-100"> <a href="#."> <img class="img-responsive" src="images/flex.png" alt=""> </a>
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/flex.png" alt=""> </a>
             <div class="news-detail">
               <div class="row" >
                 
@@ -189,6 +199,7 @@
               </div>
             </div>
           </div>
+
        
         </div>
       </div>
