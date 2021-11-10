@@ -87,49 +87,50 @@
   <!-- Content -->
   <div id="content"> 
     
- 
-    
-    <!-- Infinity Solution -->
-    <section class="light-gray-bg solution padding-top-100 padding-bottom-100">
+  <section class=" latest-news padding-top-100 padding-bottom-100">
       <div class="container"> 
         
         <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
+        <div class="heading-block text-center margin-bottom-50">
+          <h2 style="font-size:40px;"> სიახლეები</h2>
+        </div>
+        <!-- News -->
         <div class="row"> 
           <!-- News 1 -->
-          <div class="col-md-4"> <a href="#."> <img class="img-responsive" src="images/new-1.jpg" alt=""> </a>
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-1.jpg" alt=""> </a>
             <div class="news-detail">
               <div class="row">
-                <div class="col-md-3 text-center">
-                </div>
-                <br>
-                <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
-                  <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
+                
+                <div class="col-md-12"> <a href="#."><h2 style="font-size: 22px;">ყლეობა მთვარი</h2></a>
+                <div class="row">
+                  <div class="col-md-6">
+
+                  </div>
+                    <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
+                    <!-- Buttons --> 
+                      <a href="#." class="btn margin-top-20">მეტის ნახვა</a>  
+                    </div>
+                </div> 
                 </div>
               </div>
             </div>
           </div>
           
           <!-- News 2 -->
-          <div class="col-md-4"> <a href="#."> <img class="img-responsive" src="images/new-2.jpg" alt=""> </a>
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-2.jpg" alt=""> </a>
             <div class="news-detail">
               <div class="row">
-                <div class="col-md-3 text-center">
-                  <br>
-                </div>
-                <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
-                  <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4"> <a href="#."> <img class="img-responsive" src="images/new-2.jpg" alt=""> </a>
-            <div class="news-detail">
-              <div class="row">
-                <div class="col-md-3 text-center">
-                </div>
-                <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
-                  <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
+                
+                <div class="col-md-12"> <a href="#."> <h2 style="font-size: 22px;">ყლეობა ოღონდ მეორე</h2></a>
+                <div class="row">
+                  <div class="col-md-6">
+
+                  </div>
+                    <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
+                    <!-- Buttons --> 
+                      <a href="#." class="btn margin-top-20">მეტის ნახვა</a>  
+                    </div>
+                </div> 
                 </div>
               </div>
             </div>
@@ -138,8 +139,10 @@
       </div>
     </section>
     
+
+    
     <!-- Google Front Page -->
-    <section class="front-page padding-top-100 padding-bottom-100">
+    <section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row">
           <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> </div>
@@ -192,7 +195,7 @@
       </div>
     </section>
     
-<section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
+<section class=" front-page padding-top-100 padding-bottom-100">
     <div class="container">
       <div class="row">
          <div class="col-md-8">
@@ -243,7 +246,7 @@
       </div>
    </div>
 </section>
-<section class="front-page padding-top-100 padding-bottom-100">
+<section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row">
           <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> </div>
@@ -286,12 +289,12 @@
             
             <!-- List Style -->
             <div class="row">
-              <div class="col-md-6">
+                <div class="col-md-6">
 
-              </div>
-              <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
+                </div>
+                <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                  <!-- Buttons --> 
-            <a href="#." class="btn margin-top-20">ძიება</a>  </div>
+                  <a href="#." class="btn margin-top-20">ძიება</a>  </div>
                 </div>
             </div>
         </div>
