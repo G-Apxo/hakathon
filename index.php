@@ -97,14 +97,27 @@
         <!-- News -->
         <div class="row"> 
           <!-- News 1 -->
-          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-1.jpg" alt=""> </a>
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/esse.png" alt=""> </a>
             <div class="news-detail">
               <div class="row">
                 
-                <div class="col-md-12"> <a href="#."><h2 style="font-size: 22px;">ყლეობა მთვარი</h2></a>
+                <div class="col-md-12"> <a href="#."><h2 style="font-size: 22px;">ცხოვრების ჯანსაღი წესის თემაზე ესეების კონკურსი გამოცხადდა</h2></a>
                 <div class="row">
-                  <div class="col-md-6">
-
+                  <div class="col-md-6" style="display:flex">
+                  <ul class="list-style">
+                    <li>
+            
+                        <p><img src="images/date.png" alt="" style="width:10%"> 06.11.2021 </p>
+        
+                    </li>
+                </ul>
+                <ul class="list-style">
+                    <li>
+            
+                        <p><img src="images/category.png" alt="" style="width:10%"> კონკურსები </p>
+        
+                    </li>
+                </ul>
                   </div>
                     <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                     <!-- Buttons --> 
@@ -117,14 +130,30 @@
           </div>
           
           <!-- News 2 -->
-          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-2.jpg" alt=""> </a>
+          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/flex.png" alt=""> </a>
             <div class="news-detail">
-              <div class="row">
+              <div class="row" >
                 
-                <div class="col-md-12"> <a href="#."> <h2 style="font-size: 22px;">ყლეობა ოღონდ მეორე</h2></a>
+                <div class="col-md-12"> <a href="#."> <h2 style="font-size: 22px;">FLEX-ის მე-3 ტურში გადასულთა სია</h2></a>
+                </br>
+                </br>
                 <div class="row">
-                  <div class="col-md-6">
-
+                  <div class="col-md-6" style="display:flex">
+                  <ul class="list-style">
+                    <li>
+            
+                        <p><img src="images/date.png" alt="" style="width:10%"> 06.11.2021 </p>
+        
+                    </li>
+                </ul>
+                <ul class="list-style">
+                    <li>
+            
+                        <p><img src="images/category.png" alt="" style="width:10%"> კონკურსები </p>
+        
+                    </li>
+                </ul>
+                        
                   </div>
                     <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                     <!-- Buttons --> 
