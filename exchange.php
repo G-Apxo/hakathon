@@ -15,7 +15,7 @@
             <ul class="row">
                <li class="col-md-4">
                   <div class="form-group">
-                     <label for="exampleFormControlSelect1">ფაკულტეტი</label>
+                     <label for="exampleFormControlSelect1">მე ვარ</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
                         <option>ფსიქოლოგია</option>
@@ -119,7 +119,7 @@
                         <ul class="list-style">
                            <li>
                     
-                              <p><img src="images/location.png" alt="" style="width:10%"> ევროპა </p>
+                              <p><img src="images/location.png" alt="" style="width:10%"> ამერიკა </p>
                
                            </li>
                         </ul>
@@ -172,7 +172,7 @@
                         <ul class="list-style">
                            <li>
                     
-                              <p><img src="images/location.png" alt="" style="width:10%"> ევროპა </p>
+                              <p><img src="images/location.png" alt="" style="width:10%"> ამერიკა </p>
                
                            </li>
                         </ul>
@@ -225,7 +225,7 @@
                         <ul class="list-style">
                            <li>
                     
-                              <p><img src="images/location.png" alt="" style="width:10%"> ევროპა </p>
+                              <p><img src="images/location.png" alt="" style="width:10%"> ამერიკა </p>
                
                            </li>
                         </ul>
