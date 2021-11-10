@@ -352,6 +352,7 @@ header .logo {
 	text-align: left;
 	z-index: 9999;
 	margin-top: 5px;
+	width: 7%;
 }
 header nav {
 	display: inline-block;
