@@ -87,34 +87,7 @@
   <!-- Content -->
   <div id="content"> 
     
-    <!-- Seo Secore -->
-    <section class="bg-parallax seo-secore padding-top-100 padding-bottom-100" style="background:url(images/bg/bg-parallax.jpg) no-repeat;">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block white-text text-center margin-bottom-50">
-          <h2>What’s Your SEO Score ?</h2>
-          <span>See how well your page is optimised for your keyword</span> </div>
-        
-        <!-- Form -->
-        <form>
-          <ul class="row">
-            <li class="col-md-3">
-              <input type="text" class="form-control" placeholder="http://">
-            </li>
-            <li class="col-md-3">
-              <input type="text" class="form-control" placeholder="Keyword">
-            </li>
-            <li class="col-md-3">
-              <input type="text" class="form-control" placeholder="Email">
-            </li>
-            <li class="col-md-3">
-              <button type="submit" class="btn btn-orange">Check Now !</button>
-            </li>
-          </ul>
-        </form>
-      </div>
-    </section>
+ 
     
     <!-- Infinity Solution -->
     <section class="light-gray-bg solution padding-top-100 padding-bottom-100">
@@ -173,28 +146,35 @@
           <div class="col-md-8"> 
             <!-- Tittle -->
             <div class="heading-block text-left margin-bottom-20">
-              <h2>Get Appear On the Front
-                Page of Google!</h2>
-            <p>Lorem</p>
+            <h2 class="text-dark" style="font-size:40px;">იპოვე <span style="color:#00a561; font-size:40px;">შენი</span> უნივერსიტეტი</h2>
+            
             </div>
             <div class="row">
               <div class="col-md-6">
-                <h3>TEXT</h3>
-                  <div class="option">
-                  <select class="form-control form-control-lg">
-                  <option>Large select</option>
-                  <option>Large select</option>
-                  <option>Large select</option>
-                </select></div>
+              <div class="form-group">
+                     <label for="exampleFormControlSelect1">ფაკულტეტი</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>კომპიუტერული მეცნიერება</option>
+                        <option>ფსიქოლოგია</option>
+                        <option>სოციოლოგია</option>
+                        <option>სამედიცინო</option>
+                        <option>ფინანსები</option>
+                     </select>
+                  </div>
               </div>
               <div class="col-md-6">
-                <h3>TEXT 2</h3>
-                  <div class="option">
-                  <select class="form-control form-control-lg">
-                  <option>Large select</option>
-                  <option>Large select</option>
-                  <option>Large select</option>
-                </select></div>
+              <div class="form-group">
+                     <label for="exampleFormControlSelect1">ლოკაცია</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>თბილისი</option>
+                        <option>ქუთაისი</option>
+                        <option>გორი</option>
+                        <option>ბათუმი</option>
+                        <option>ხაშური</option>
+                     </select>
+                  </div>
               </div>
             </div>
             
@@ -203,368 +183,123 @@
               <div class="col-md-6">
 
               </div>
-              <div class="col-md-6 sections2">
+              <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                  <!-- Buttons --> 
             <a href="#." class="btn margin-top-20">ძიება</a>  </div>
                 </div>
             </div>
-            
-            
-           
         </div>
       </div>
     </section>
     
-    <!-- Infinity Solution -->
-    <section class="offer-services padding-top-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2>What Services We Offer </h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand and 
-          drive more relevant traffic to your website?</span> </div>
-        <div class="text-center"> <img src="images/services-img.jpg" alt=""> </div>
+<section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
+    <div class="container">
+      <div class="row">
+         <div class="col-md-8">
+            <!-- Tittle -->
+            <div class="heading-block text-left margin-bottom-20">
+            <h2 class="text-dark" style="font-size:40px;">იპოვე <span style="color:#00a561; font-size:40px;">გაცვლითი</span> პროგრამები</h2>
+            </div>
+            <div class="row">
+               <div class="col-md-6">
+                  <div class="form-group">
+                     <label for="exampleFormControlSelect1">ფაკულტეტი</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>კომპიუტერული მეცნიერება</option>
+                        <option>ფსიქოლოგია</option>
+                        <option>სოციოლოგია</option>
+                        <option>სამედიცინო</option>
+                        <option>ფინანსები</option>
+                     </select>
+                  </div>
+               </div>
+               <div class="col-md-6">
+                  <div class="form-group">
+                     <label for="exampleFormControlSelect1">ლოკაცია</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>თბილისი</option>
+                        <option>ქუთაისი</option>
+                        <option>გორი</option>
+                        <option>ბათუმი</option>
+                        <option>ხაშური</option>
+                     </select>
+                  </div>
+               </div>
+            </div>
+            <!-- List Style -->
+            <div class="row">
+            <div class="col-md-6 sections2"  style="display: flex;justify-content: start;">
+                  <!-- Buttons --> 
+                  <a href="#." class="btn margin-top-20">ძიება</a>  
+               </div>
+               <div class="col-md-6">
+               </div>
+              
+            </div>
+         </div>
+      <div class="col-md-4" style="display: flex;justify-content: end;"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> 
       </div>
-    </section>
-    
-    <!-- INTRO -->
-    <section class="bg-parallax text-center padding-top-60 padding-bottom-60" style="background:url(images/bg/bg-parallax.jpg) no-repeat;">
+   </div>
+</section>
+<section class="front-page padding-top-100 padding-bottom-100">
       <div class="container">
-        <div class="text-center margin-bottom-50">
-          <p class="text-white intro-style font-14px">We are a full service SEO agency. Our social media experts can help you establish your business objectives, identify your target audience, create engaging and share-worthy content and finally integrate your social media with all other aspects of your online presence.</p>
-        </div>
-        <a href="#." class="btn btn-orange">Learn More</a> </div>
-    </section>
-    
-    <!-- Case Studies -->
-    <section class="case-studies padding-top-100 padding-bottom-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2>Case Studies </h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand </span> </div>
-        
-        <!-- Cases -->
-        <div class="case">
-          <ul class="row">
+        <div class="row">
+          <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/ipad.jpg" alt=" "> </div>
+          <div class="col-md-8"> 
+            <!-- Tittle -->
+            <div class="heading-block text-left margin-bottom-20">
+            <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> შენს არეალში </span></h2>
             
-            <!-- Case 1 -->
-            <li class="col-md-4">
-              <article> <a href="#"> <img class="img-responsive" src="images/case-img-1.jpg" alt=""> </a>
-                <div class="case-detail">
-                  <h5>Tremely Design</h5>
-                  <p>Paid listings on Google AdWords and 
-                    Microsoft AdCenter customers</p>
-                </div>
-              </article>
-            </li>
-            
-            <!-- Case 2 -->
-            <li class="col-md-4">
-              <article> <a href="#"> <img class="img-responsive" src="images/case-img-2.jpg" alt=""> </a>
-                <div class="case-detail">
-                  <h5>Tremely Design</h5>
-                  <p>Paid listings on Google AdWords and 
-                    Microsoft AdCenter customers</p>
-                </div>
-              </article>
-            </li>
-            
-            <!-- Case 3 -->
-            <li class="col-md-4">
-              <article> <a href="#"> <img class="img-responsive" src="images/case-img-3.jpg" alt=""> </a>
-                <div class="case-detail">
-                  <h5>Tremely Design</h5>
-                  <p>Paid listings on Google AdWords and 
-                    Microsoft AdCenter customers</p>
-                </div>
-              </article>
-            </li>
-          </ul>
-          
-          <!-- Button -->
-          <div class="text-center margin-top-50"> <a href="#." class="btn btn-orange">View More</a> </div>
-        </div>
-      </div>
-    </section>
-    
-    <!-- Case Studies -->
-    <section class="pricing-table light-gray-bg padding-top-100 padding-bottom-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2>Affordable SEO Services Packages </h2>
-          <span class="intro-style">Choose from affordable SEO services packages & get the best results in return. </span> </div>
-        <div class="row"> 
-          
-          <!-- Price -->
-          <div class="col-md-4"> 
-            <!-- Icon -->
-            <div class="plan-icon"><img src="images/plan-icon-1.png" alt=" "></div>
-            
-            <!-- Plan  -->
-            <div class="pricing-head">
-              <h4>Basic Plan</h4>
-              <span class="curency">$</span> <span class="amount">25<span>.99</span></span> <span class="month">/ month</span> </div>
-            
-            <!-- Plean Detail -->
-            <div class="price-in">
-              <ul class="text-center">
-                <li>25 Analytics Campaigns</li>
-                <li> 1,900 Keywords</li>
-                <li> 1,250,000 Crawled Pages</li>
-                <li> Includes Branded Reports</li>
-                <li> 50 Social Accounts</li>
-              </ul>
-              <a href="#." class="btn btn-orange">PURCHACE</a> </div>
-          </div>
-          
-          <!-- Price -->
-          <div class="col-md-4"> 
-            <!-- Icon -->
-            <div class="plan-icon orange-bg"><img src="images/plan-icon-2.png" alt=" "></div>
-            
-            <!-- Plan  -->
-            <div class="pricing-head orange-bg">
-              <h4>Advanced Plan</h4>
-              <span class="curency">$</span> <span class="amount">45<span>.99</span></span> <span class="month">/ month</span> </div>
-            
-            <!-- Plean Detail -->
-            <div class="price-in">
-              <ul class="text-center">
-                <li>25 Analytics Campaigns</li>
-                <li> 1,900 Keywords</li>
-                <li> 1,250,000 Crawled Pages</li>
-                <li> Includes Branded Reports</li>
-                <li> 50 Social Accounts</li>
-              </ul>
-              <a href="#." class="btn btn-orange">PURCHACE</a> </div>
-          </div>
-          
-          <!-- Price -->
-          <div class="col-md-4"> 
-            <!-- Icon -->
-            <div class="plan-icon"><img src="images/plan-icon-3.png" alt=" "></div>
-            
-            <!-- Plan  -->
-            <div class="pricing-head">
-              <h4>Premium Plan</h4>
-              <span class="curency">$</span> <span class="amount">65<span>.99</span></span> <span class="month">/ month</span> </div>
-            
-            <!-- Plean Detail -->
-            <div class="price-in">
-              <ul class="text-center">
-                <li>25 Analytics Campaigns</li>
-                <li> 1,900 Keywords</li>
-                <li> 1,250,000 Crawled Pages</li>
-                <li> Includes Branded Reports</li>
-                <li> 50 Social Accounts</li>
-              </ul>
-              <a href="#." class="btn btn-orange">PURCHACE</a> </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    <!-- Flow Work  -->
-    <section class="flow-work padding-top-80 padding-bottom-80">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2>Our Work Flow </h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand and 
-          drive more relevant traffic to your website? </span> </div>
-        <div class="text-center"> <img src="images/work-folow-img.jpg" alt=" "> </div>
-        <ul class="row padding-left-50 padding-right-50">
-          <li class="col-sm-3">
-            <div class="icon"> <img src="images/flow-icon-1.png" alt="" > </div>
-            <h6>Planing</h6>
-            <p>Duis posuere blandit orci sed 
-              fringilla nisl blandit.</p>
-          </li>
-          <li class="col-sm-3">
-            <div class="icon"> <img src="images/flow-icon-2.png" alt="" > </div>
-            <h6>Designing</h6>
-            <p>Duis posuere blandit orci sed 
-              fringilla nisl blandit.</p>
-          </li>
-          <li class="col-sm-3">
-            <div class="icon"> <img src="images/flow-icon-3.png" alt="" > </div>
-            <h6>Developing</h6>
-            <p>Duis posuere blandit orci sed 
-              fringilla nisl blandit.</p>
-          </li>
-          <li class="col-sm-3">
-            <div class="icon"> <img src="images/flow-icon-4.png" alt="" > </div>
-            <h6>Launch</h6>
-            <p>Duis posuere blandit orci sed 
-              fringilla nisl blandit.</p>
-          </li>
-        </ul>
-      </div>
-    </section>
-    
-    <!-- Our Clients  -->
-    <section class="clients padding-bottom-100 padding-top-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block white-text text-center margin-bottom-80">
-          <h2>Our Clients </h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand and 
-          drive more relevant traffic to your website? </span> </div>
-        
-        <!-- Clients Images -->
-        <ul class="col-5 text-center">
-          <li> <img class="img-responsive" src="images/client-img-1.png" alt=""></li>
-          <li> <img class="img-responsive" src="images/client-img-2.png" alt=""></li>
-          <li> <img class="img-responsive" src="images/client-img-3.png" alt=""></li>
-          <li> <img class="img-responsive" src="images/client-img-4.png" alt=""></li>
-          <li> <img class="img-responsive" src="images/client-img-5.png" alt=""></li>
-        </ul>
-      </div>
-    </section>
-    
-    <!-- TESTIMONIALS -->
-    <section class="testimonial padding-top-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2>Why Customer <i class="fa fa-heart"></i> us! </h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand and 
-          drive more relevant traffic to your website? </span> </div>
-        
-        <!-- TESTIMONIALS SLIDER -->
-        <div id="slider" class="flexslider">
-          <ul class="slides">
-            
-            <!-- Slide 1 -->
-            <li>
-              <div class="row">
-                <div class="col-md-8">
-                  <h6>tim rijkes  / <span>CEO - Founder </span></h6>
-                  <p>“Here's the story of a lovely lady who was bringing up three very lovely girls. The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. I have always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you.” </p>
-                </div>
-                <div class="col-md-4"> <img src="images/testi-img-1.png" alt=""> </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+              <div class="form-group">
+                     <label for="exampleFormControlSelect1">მიმართულება</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>გარემოს დაცვა</option>
+                        <option>ახალგაზრდული</option>
+                        <option>სამეცნიერო</option>
+                        <option>სამოქალაქო განათლება</option>
+                        <option>პოლიტიკა</option>
+                        <option>მოხალისეობა</option>
+                        <option>ბანაკების მოწყობა</option>
+                     </select>
+                  </div>
               </div>
-            </li>
-            
-            <!-- Slide 2 -->
-            <li>
-              <div class="row">
-                <div class="col-md-8">
-                  <h6>WPMINES  / <span>CEO - Founder </span></h6>
-                  <p>“Here's the story of a lovely lady who was bringing up three very lovely girls. The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. I have always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. The first mate and his Skipper too will do their very best to” </p>
-                </div>
-                <div class="col-md-4"> <img src="images/testi-img-1.png" alt=""> </div>
-              </div>
-            </li>
-            
-            <!-- Slide 3 -->
-            <li>
-              <div class="row">
-                <div class="col-md-8">
-                  <h6>M_ADNAN  / <span>Front End Developer </span></h6>
-                  <p>“Here's the story of a  mate and his Skipper too will lovely lady who was bringing up three very lovely girls. The first do their very best to make the others comfortable in their tropic island nest. I have always wanted to have a neighbor just like you. I've always wanted to  mate and his Skipper too will live in a neighborhood with you.” </p>
-                </div>
-                <div class="col-md-4"> <img src="images/testi-img-1.png" alt=""> </div>
-              </div>
-            </li>
-            
-            <!-- Slide 4 -->
-            <li>
-              <div class="row">
-                <div class="col-md-8">
-                  <h6>FATON / <span>Designer </span></h6>
-                  <p>“Here's the story of a lovely lady who was bringing up three very lovely girls. The first mate and his Skipper too will do lady who was bringing up three very lovely girls.  their very best to make the others comfortable in their tropic island nest. I have always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you.” </p>
-                </div>
-                <div class="col-md-4"> <img src="images/testi-img-1.png" alt=""> </div>
-              </div>
-            </li>
-          </ul>
-        </div>
-        
-        <!-- TESTIMONIALS THUMB -->
-        <div id="carousel" class="flexslider">
-          <ul class="slides">
-            <li> <img src="images/testi-thumb-img-1.png" alt="" > <span>Jhonny Dep</span> </li>
-            <li> <img src="images/testi-thumb-img-2.png" alt="" > <span>Luck Walker</span> </li>
-            <li> <img src="images/testi-thumb-img-3.png" alt="" > <span>tim rijkes</span> </li>
-            <li> <img src="images/testi-thumb-img-4.png" alt="" > <span>Irene warner</span> </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-    
-    <!-- Latest News -->
-    <section class="latest-news padding-top-100 padding-bottom-100">
-      <div class="container"> 
-        
-        <!-- Tittle -->
-        <div class="heading-block text-center margin-bottom-80">
-          <h2> Our Latest News</h2>
-          <span class="intro-style">Do you want to improve the online visibility of your brand and 
-          drive more relevant traffic to your website? </span> </div>
-        
-        <!-- News -->
-        <div class="row"> 
-          <!-- News 1 -->
-          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-1.jpg" alt=""> </a>
-            <div class="news-detail">
-              <div class="row">
-                <div class="col-md-3 text-center">
-                </div>
-                <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
-                  <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
-                </div>
+              <div class="col-md-6">
+              <div class="form-group">
+                     <label for="exampleFormControlSelect1">ლოკაცია</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                        <option>ყველა</option>
+                        <option>თბილისი</option>
+                        <option>ქუთაისი</option>
+                        <option>გორი</option>
+                        <option>ბათუმი</option>
+                        <option>ხაშური</option>
+                     </select>
+                  </div>
               </div>
             </div>
-          </div>
-          
-          <!-- News 2 -->
-          <div class="col-md-6"> <a href="#."> <img class="img-responsive" src="images/new-2.jpg" alt=""> </a>
-            <div class="news-detail">
-              <div class="row">
-                <div class="col-md-3 text-center">
+            
+            <!-- List Style -->
+            <div class="row">
+              <div class="col-md-6">
 
-                </div>
-                <div class="col-md-9"> <a href="#.">Data Traffic Conversion</a>
-                  <p>You bet your life Speed Racer he will see it through It mission worlds seek out civilizations gone before.</p>
-                </div>
               </div>
+              <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
+                 <!-- Buttons --> 
+            <a href="#." class="btn margin-top-20">ძიება</a>  </div>
+                </div>
             </div>
-          </div>
         </div>
       </div>
     </section>
+
   </div>
   <!-- End Content --> 
   
   <!-- Footer -->
   <?php include_once 'footer.php';?>
-  
-<!-- End Page Wrapper --> 
-
-<!-- JavaScripts --> 
-<script src="js/vendors/jquery/jquery.min.js"></script> 
-<script src="js/vendors/wow.min.js"></script> 
-<script src="js/vendors/bootstrap.min.js"></script> 
-<script src="js/vendors/own-menu.js"></script> 
-<script src="js/vendors/flexslider/jquery.flexslider-min.js"></script> 
-<script src="js/vendors/jquery.countTo.js"></script> 
-<script src="js/vendors/jquery.isotope.min.js"></script> 
-<script src="js/vendors/jquery.bxslider.min.js"></script> 
-<script src="js/vendors/owl.carousel.min.js"></script> 
-<script src="js/vendors/jquery.sticky.js"></script> 
-
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
-<script src="js/main.js"></script> 
-</body>
-</html>
