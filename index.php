@@ -201,19 +201,19 @@
          <div class="col-md-8">
             <!-- Tittle -->
             <div class="heading-block text-left margin-bottom-20">
-            <h2 class="text-dark" style="font-size:40px;">იპოვე <span style="color:#00a561; font-size:40px;">გაცვლითი</span> პროგრამები</h2>
+            <h2 class="text-dark" style="font-size:40px;">იპოვე <span style="color:#00a561; font-size:40px;">გაცვლითი პროგრამები</span> </h2>
             </div>
             <div class="row">
                <div class="col-md-6">
-                  <div class="form-group">
-                     <label for="exampleFormControlSelect1">ფაკულტეტი</label>
+               <div class="form-group">
+                     <label for="exampleFormControlSelect1">მე ვარ</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
-                        <option>კომპიუტერული მეცნიერება</option>
-                        <option>ფსიქოლოგია</option>
-                        <option>სოციოლოგია</option>
-                        <option>სამედიცინო</option>
-                        <option>ფინანსები</option>
+                        <option>სტუდენტი</option>
+                        <option>მაგისტრი</option>
+                        <option>მოსწავლე</option>
+                        <option>მკვლევარი</option>
+                        <option>80$</option>
                      </select>
                   </div>
                </div>

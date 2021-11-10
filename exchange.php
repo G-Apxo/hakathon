@@ -23,6 +23,7 @@
                         <option>მაგისტრი</option>
                         <option>მოსწავლე</option>
                         <option>მკვლევარი</option>
+                        <option>80$</option>
                      </select>
                   </div>
                </li>
@@ -35,7 +36,6 @@
                         <option>ევროპა</option>
                         <option>აზია</option>
                         <option>ავსტრალია</option>
-                        
                      </select>
                   </div>
                </li>

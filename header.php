@@ -55,7 +55,7 @@
 <header class="header coporate-header">
     <div class="sticky">
       <div class="container">
-        <div class="logo"> <a href="index.html"><img src="images/educo.png" alt="" style="width:100%"></a> </div>
+        <div class="logo"> <a href="index.php"><img src="images/educo.png" alt="" style="width:100%"></a> </div>
         
         <!-- Nav -->
         <nav>
