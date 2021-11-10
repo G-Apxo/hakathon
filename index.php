@@ -218,7 +218,7 @@
               </div>
               <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                  <!-- Buttons --> 
-            <a href="#." class="btn margin-top-20">ძიება</a>  </div>
+            <a href="uni.php" class="btn margin-top-20">ძიება</a>  </div>
                 </div>
             </div>
         </div>
@@ -265,7 +265,7 @@
             <div class="row">
             <div class="col-md-6 sections2"  style="display: flex;justify-content: start;">
                   <!-- Buttons --> 
-                  <a href="#." class="btn margin-top-20">ძიება</a>  
+                  <a href="exchange.php" class="btn margin-top-20">ძიება</a>  
                </div>
                <div class="col-md-6">
                </div>
@@ -324,7 +324,7 @@
                 </div>
                 <div class="col-md-6 sections2"  style="display: flex;justify-content: end;">
                  <!-- Buttons --> 
-                  <a href="#." class="btn margin-top-20">ძიება</a>  </div>
+                  <a href="non-gov.php" class="btn margin-top-20">ძიება</a>  </div>
                 </div>
             </div>
         </div>
