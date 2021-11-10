@@ -11,7 +11,7 @@
         <ul>
           
           <!-- Slider 1 -->
-          <li data-transition="fade" data-slotamount="7"> <img src="images/slides/slide-bg-1.jpg" data-bgposition="center top" alt="" /> 
+          <li data-transition="fade" data-slotamount="7" style="background-color:#EFEFEF"> <img src="images/banner.png" data-bgposition="right center"  data-bgfit="contain"  alt="" style="width:50%;background-size: contain;"/> 
             
             <!-- Layer -->
             <div class="tp-caption sft tp-resizeme font-extra-bold" 
@@ -26,7 +26,7 @@
                   data-elementdelay="0.1" 
                   data-endelementdelay="0.1" 
                   data-endspeed="300" 
-                  data-captionhidden="on"> <img src="images/slides/img--1-1.png" alt="" > </div>
+                  data-captionhidden="on"></div>
             
             <!-- Layer -->
             <div class="tp-caption sfb tp-resizeme font-bold" 
@@ -42,8 +42,8 @@
                   data-endelementdelay="0.1"
                   data-endspeed="300" 
                   data-captionhidden="on"
-                  style="color: #fff; font-size: 48px; font-weight: normal; letter-spacing:0px; line-height:55px;"> Internet Marketing Solutions <br>
-              Fast and Affortable </div>
+                  style="color: #232c3b; font-size: 48px; font-weight: normal; letter-spacing:0px; line-height:55px;">ყველაფერი <span  style="color:#00a561; font-size:48px;"> შენი  <br>განათლებისთვის</span>
+               </div>
             
             <!-- Layer -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -59,10 +59,11 @@
                   data-endelementdelay="0.1" 
                   data-endspeed="300" 
                   data-captionhidden="on"
-                  style="color: #fff; font-size: 30px; font-weight: normal; line-height:36px;"> Do you want to improve the online visibility of <br> your brand  and drive more relevant traffic <br> to your website.</div>
+                  style="color: #6a7483; font-size: 15px; font-weight: normal; line-height:16px;"> განათლების პორტალი, რომელიც მოიცავს
+ <br> ყველა ინფორმაციასა, თუ შესაძლებლობას <br> განათლების სფეროში.</div>
             
             <!-- Layer -->
-            <div class="tp-caption sfb tp-resizeme font-crimson" 
+            <!-- <div class="tp-caption sfb tp-resizeme font-crimson" 
                   data-x="left" data-hoffset="40"
                   data-y="center" data-voffset="150"
                   data-speed="500" 
@@ -75,7 +76,7 @@
                   data-endelementdelay="0.1" 
                   data-endspeed="300" 
                   data-captionhidden="on"
-                  style=""> <a href="#." class="btn">Learn More</a> <a href="#." class="btn btn-white margin-left-20">Get a quote</a> </div>
+                  style=""> <a href="#." class="btn">Learn More</a> <a href="#." class="btn btn-white margin-left-20">Get a quote</a> </div> -->
           </li>
           
         

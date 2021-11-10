@@ -8,7 +8,7 @@
       <div class="container">
          <!-- Tittle -->
          <div class="heading-block text-dark text-left margin-bottom-80">
-            <h2 class="text-dark" style="font-size:40px;">იპოვე<span style="color:#00a561; font-size:40px;"> გაცვლითი პროგრამები </span></h2>
+            <h2 class="text-dark" style="font-size:40px;"><span style="color:#00a561; font-size:40px;">სიახლეები  </span>განათლების სფეროში</h2>
             
          </div>
          <!-- Form -->
@@ -16,27 +16,25 @@
             <ul class="row">
                <li class="col-md-4">
                   <div class="form-group">
-                     <label for="exampleFormControlSelect1">მე ვარ</label>
+                     <label for="exampleFormControlSelect1">კატეგორიები</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
-                        <option>სტუდენტი</option>
-                        <option>მაგისტრი</option>
-                        <option>მოსწავლე</option>
-                        <option>მკვლევარი</option>
-                        <option>80$</option>
+                        <option>კონკურსები</option>
+                        <option>სკოლა</option>
+                        <option>კონფერენციები</option>
+                        <option>ტრენინგები</option>
                      </select>
                   </div>
                </li>
                <li class="col-md-4">
                   <div class="form-group">
-                     <label for="exampleFormControlSelect1">ლოკაცია</label>
-                     <select class="form-control" id="exampleFormControlSelect1">
-                        <option>ყველა</option>
-                        <option>ამერიკა</option>
-                        <option>ევროპა</option>
-                        <option>აზია</option>
-                        <option>ავსტრალია</option>
-                     </select>
+                     
+                     <div class="input-group">
+                     <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">ძებნა</label>
+                        <input style="height: 36px;" type="search" class="form-control"  placeholder="ძებნა">
+                    </form>
                   </div>
                </li>
                <li class="col-md-4 margin-top-10">
