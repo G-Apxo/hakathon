@@ -8,20 +8,23 @@
       <div class="container">
          <!-- Tittle -->
          <div class="heading-block text-dark text-left margin-bottom-80">
-         <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> შენს არეალში </span></h2>
+            <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> შენს არეალში </span></h2>
          </div>
          <!-- Form -->
          <form>
             <ul class="row">
                <li class="col-md-4">
                   <div class="form-group">
-                     <label for="exampleFormControlSelect1">ფაკულტეტი</label>
+                     <label for="exampleFormControlSelect1">მიმართულება</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
-                        <option>ფსიქოლოგია</option>
-                        <option>სოციოლოგია</option>
-                        <option>სამედიცინო</option>
-                        <option>ფინანსები</option>
+                        <option>გარემოს დაცვა</option>
+                        <option>ახალგაზრდული</option>
+                        <option>სამეცნიერო</option>
+                        <option>სამოქალაქო განათლება</option>
+                        <option>პოლიტიკა</option>
+                        <option>მოხალისეობა</option>
+                        <option>ბანაკების მოწყობა</option>
                      </select>
                   </div>
                </li>
@@ -32,6 +35,8 @@
                         <option>ყველა</option>
                         <option>თბილისი</option>
                         <option>ქუთაისი</option>
+                        <option>ახალციხწ</option>
+                        <option>რუსთავი</option>
                         <option>გორი</option>
                         <option>ბათუმი</option>
                         <option>ხაშური</option>
@@ -60,24 +65,13 @@
                </div>
                <!-- List Style -->
                <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
                      <ul class="list-style">
-                        <li>
-                           <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
-                        </li>
+                        <ul class="list-style">
+                           <li>
+                              <p>მიმართულებები: ახალგაზრდული, სამოქალაქო განათლება, მოხალისეობა</p>
+                           </li>
+                        </ul>
                      </ul>
                   </div>
                </div>
@@ -103,29 +97,11 @@
                <div class="heading-block text-left margin-bottom-20">
                   <span>ქუთაისი </span>
                </div>
-               <!-- List Style -->
-               <div class="row">
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
+               <ul class="list-style">
+                  <li>
+                     <p>მიმართულებები: ახალგაზრდული, სამოქალაქო განათლება, გარემოსდაცვა, ბანაკების მოწყობა, მოხალისეობა</p>
+                  </li>
+               </ul>
                <!-- Buttons --> 
                <div class="col-md-12">
                   <div class="row">
@@ -150,23 +126,10 @@
                </div>
                <!-- List Style -->
                <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p>მიმართულებები: ახალგაზრდული, სამოქალაქო განათლება</p>
                         </li>
                      </ul>
                   </div>
@@ -195,23 +158,10 @@
                </div>
                <!-- List Style -->
                <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p>მიმართულებები: ახალგაზრდული, სამოქალაქო განათლება, მოხალისეობა, ბანაკების მოწყობა</p>
                         </li>
                      </ul>
                   </div>
@@ -240,23 +190,10 @@
                </div>
                <!-- List Style -->
                <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
                      <ul class="list-style">
                         <li>
-                           <p><img src="images/price-tag.png" alt="" style="width:10%"> სწავლის საფასური: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/wallet.png" alt="" style="width:10%"> საშუალო ხელფასი:</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6">
-                     <ul class="list-style">
-                        <li>
-                           <p><img src="images/check.png" alt=""style="width:10%">ჩარიცხვის %: </p>
-                        </li>
-                        <li>
-                           <p><img src="images/graduation-cap.png" alt="" style="width:10%"> კურსდამთავრებულების %: </p>
+                           <p>მიმართულებები: ახალგაზრდული, სამოქალაქო განათლება, გარემოსდაცვა, ბანაკების მოწყობა, მოხალისეობა</p>
                         </li>
                      </ul>
                   </div>
