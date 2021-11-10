@@ -1600,4 +1600,6 @@ background:#f9f9f9;
   .myDIV:hover + .hide {
 	display: block;
 	color: red;
+	
   }
+  
