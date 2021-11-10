@@ -11,7 +11,7 @@
         <ul>
           
           <!-- Slider 1 -->
-          <li data-transition="fade" data-slotamount="7" style="background-color:#EFEFEF"> <img src="images/banner.png" data-bgposition="right center"  data-bgfit="contain"  alt="" style="width:40%;background-size: contain;"/> 
+          <li data-transition="fade" data-slotamount="7" style="background-color:#EFEFEF;"> <img src="images/banner.png"  data-bgposition="right center"  data-bgfit="contain" alt="" /> 
             
             <!-- Layer -->
             <div class="tp-caption sft tp-resizeme font-extra-bold" 
@@ -175,7 +175,7 @@
     <section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row">
-          <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/uni.png" alt=" "> </div>
+          <div class="col-md-4"> <img class="img-responsive" src="images/uni.png" alt=" "> </div>
           <div class="col-md-8"> 
             <!-- Tittle -->
             <div class="heading-block text-left margin-bottom-20">
@@ -272,14 +272,14 @@
               
             </div>
          </div>
-      <div class="col-md-4" style="display: flex;justify-content: end;"> <img class="img-responsive margin-top-30" src="images/exchange.png" alt=" "> 
+      <div class="col-md-4" style="display: flex;justify-content: end;"> <img class="img-responsive " src="images/exchange.png" alt=" "> 
       </div>
    </div>
 </section>
 <section class="light-gray-bg front-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row">
-          <div class="col-md-4"> <img class="img-responsive margin-top-30" src="images/non-gov.png" alt=" "> </div>
+          <div class="col-md-4"> <img class="img-responsive" src="images/non-gov.png" alt=" "> </div>
           <div class="col-md-8"> 
             <!-- Tittle -->
             <div class="heading-block text-left margin-bottom-20">
