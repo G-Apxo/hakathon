@@ -8,7 +8,8 @@
       <div class="container">
          <!-- Tittle -->
          <div class="heading-block text-dark text-left margin-bottom-80">
-            <h2 class="text-dark" style="font-size:40px;">არაფორმარული განათლება<span style="color:#00a561; font-size:40px;"> შენს არეალში </span></h2>
+            <h2 class="text-dark" style="font-size:40px;">იპოვე<span style="color:#00a561; font-size:40px;"> გაცვლითი პროგრამები </span></h2>
+            
          </div>
          <!-- Form -->
          <form>
@@ -18,10 +19,10 @@
                      <label for="exampleFormControlSelect1">მე ვარ</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
-                        <option>ფსიქოლოგია</option>
-                        <option>სოციოლოგია</option>
-                        <option>სამედიცინო</option>
-                        <option>ფინანსები</option>
+                        <option>სტუდენტი</option>
+                        <option>მაგისტრი</option>
+                        <option>მოსწავლე</option>
+                        <option>მკვლევარი</option>
                      </select>
                   </div>
                </li>
@@ -30,11 +31,11 @@
                      <label for="exampleFormControlSelect1">ლოკაცია</label>
                      <select class="form-control" id="exampleFormControlSelect1">
                         <option>ყველა</option>
-                        <option>თბილისი</option>
-                        <option>ქუთაისი</option>
-                        <option>გორი</option>
-                        <option>ბათუმი</option>
-                        <option>ხაშური</option>
+                        <option>ამერიკა</option>
+                        <option>ევროპა</option>
+                        <option>აზია</option>
+                        <option>ავსტრალია</option>
+                        
                      </select>
                   </div>
                </li>
